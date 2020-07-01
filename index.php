@@ -2,6 +2,6 @@
 
 echo "Olá Mundo";
 
-echo "Novo teste";
+echo "servidor";
 
 ?>
